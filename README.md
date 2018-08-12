@@ -1,2 +1,2 @@
-# dorel-bot
+# Dore
 Bot for discord
